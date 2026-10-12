@@ -1,0 +1,6 @@
+{
+  "name": "HospedaSync CRM - Arquitetura & Gestão Hoteleira",
+  "description": "Análise técnica, simulador arquitetural e blueprint de integração entre HQbeds, WhatsApp e gestão de 28k hóspedes para hotelaria.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
